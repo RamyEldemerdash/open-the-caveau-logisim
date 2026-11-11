@@ -52,6 +52,8 @@ Apri i file `.circ` con Logisim 2.7.1 o con [Logisim-evolution](https://github.c
 caveau/open-the-caveau.circ
 caveau/cronometro.circ
 docs/relazione.pdf
+images/caveau.png
+images/cronometro.png
 ```
 
 Per i dettagli sul funzionamento vedi `docs/relazione.pdf`.
